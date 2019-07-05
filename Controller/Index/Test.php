@@ -1,5 +1,5 @@
 <?php
-namespace Chris\User\Controller\Index;
+namespace Battcor\User\Controller\Index;
 
 class Test extends \Magento\Framework\App\Action\Action
 {
