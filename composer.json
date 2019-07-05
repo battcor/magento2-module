@@ -2,7 +2,7 @@
     "name": "battcor/magento2-user-module",
     "description": "Battcor User Module",
     "require": {
-        "php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0",
+        "php": "~5.6.5|~7.2.0",
         "magento/module-catalog": "102.1"
     },
     "type": "magento2-module",
